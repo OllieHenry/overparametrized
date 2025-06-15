@@ -1,0 +1,14 @@
+name: overparametrized
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipykernel
+  - ipywidgets
+  - numpy
+  - pandas
+  - pytorch
+  - tensorboard
+  - matplotlib
+  - scikit-learn
+  - jupyter
